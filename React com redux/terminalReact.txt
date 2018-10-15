@@ -1,0 +1,18 @@
+https:://bitbucket.org/raffael_bechara_remeh/minicurso
+
+
+bitbucket
+
+https:://bitbucket.org/raffael_bechara_remeh/minicursos
+
+//Comando para criar   
+npx create-react-app meuApp 
+
+//rodar o react
+npm start
+
+//instalar o redux dentro do app
+npm install --save redux react-redux redux-thunk ...
+np, intall --save react-route-dom
+
+
